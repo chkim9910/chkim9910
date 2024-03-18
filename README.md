@@ -41,7 +41,7 @@
 
 <h1 align='center'>&nbsp Portfolio 2024</h1>
 <div align="center">
-<a href="https://shantierra.me/">see freely my portfolio</a>
+<a href="https://shantierra.me/">Please feel free to look around my portfolio 👉</a>
 </div>
 <br/>
 <br/>
