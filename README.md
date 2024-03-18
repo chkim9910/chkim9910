@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-<h2 align='center'><i class="em em-butterfly" aria-role="presentation" aria-label="BUTTERFLY"></i>&nbsp Project <i class="em em-butterfly" aria-role="presentation" aria-label="BUTTERFLY"></i></h2>
+<h2 align='center'><i class="em em-butterfly" aria-role="presentation" aria-label="BUTTERFLY"></i>&nbsp Recent Project <i class="em em-butterfly" aria-role="presentation" aria-label="BUTTERFLY"></i></h2>
 <div align='center'>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chkim9910&repo=x2y2-Renewal&theme=omni)](https://github.com/chkim9910/x2y2-Renewal)
