@@ -9,7 +9,7 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chkim9910&show_icons=true&theme=transparent&) -->
 <h1 align='center'><i class="em em-hammer_and_pick" aria-role="presentation" aria-label=""></i>&nbsp Tech Stack&nbsp <i class="em em-hammer_and_pick" aria-role="presentation" aria-label=""></i></h1>
-<h2  align='center'>Techs that I've used at least once</h2>
+<h4  align='center'>Techs that I've used at least once</h4>
 <br/>
 
 <div align='center'>
@@ -25,6 +25,7 @@
 </div>
 <br/>
 <br/>
+<br/>
 
 <h1 align='center'><i class="em em-butterfly" aria-role="presentation" aria-label="BUTTERFLY"></i>&nbsp Recent Project <i class="em em-butterfly" aria-role="presentation" aria-label="BUTTERFLY"></i></h1>
 <div align='center'>
@@ -35,6 +36,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chkim9910&repo=Chanel22bag-Renewal&theme=omni)](https:///github.com/chkim9910/Chanel22bag-Renewal)
 
 </div>
+<br/>
 <br/>
 <br/>
 
