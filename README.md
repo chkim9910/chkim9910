@@ -39,6 +39,14 @@
 <br/>
 <br/>
 
+<h1 align='center'>&nbsp Portfolio 2024</h1>
+<div align="center">
+<a href="https://shantierra.me/">see freely my portfolio</a>
+</div>
+<br/>
+<br/>
+<br/>
+
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chkim9910&theme=buefy&rank_icon=github)
