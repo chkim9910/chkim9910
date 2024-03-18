@@ -3,13 +3,13 @@
 <link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet">
 <div align='center'>
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=600&text=ChoHyangKim)
+![header](https://capsule-render.vercel.app/api?type=venom&height=500&text=ChoHyangKim)
 
 </div>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chkim9910&show_icons=true&theme=transparent&) -->
-<h2 align='center'><i class="em em-hammer_and_pick" aria-role="presentation" aria-label=""></i>&nbsp Tech Stack&nbsp <i class="em em-hammer_and_pick" aria-role="presentation" aria-label=""></i></h2>
-<h5  align='center'>Techs that I've used at least once</h5>
+<h1 align='center'><i class="em em-hammer_and_pick" aria-role="presentation" aria-label=""></i>&nbsp Tech Stack&nbsp <i class="em em-hammer_and_pick" aria-role="presentation" aria-label=""></i></h1>
+<h2  align='center'>Techs that I've used at least once</h2>
 <br/>
 
 <div align='center'>
@@ -26,15 +26,12 @@
 <br/>
 <br/>
 
-<h2 align='center'><i class="em em-butterfly" aria-role="presentation" aria-label="BUTTERFLY"></i>&nbsp Recent Project <i class="em em-butterfly" aria-role="presentation" aria-label="BUTTERFLY"></i></h2>
+<h1 align='center'><i class="em em-butterfly" aria-role="presentation" aria-label="BUTTERFLY"></i>&nbsp Recent Project <i class="em em-butterfly" aria-role="presentation" aria-label="BUTTERFLY"></i></h1>
 <div align='center'>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chkim9910&repo=x2y2-Renewal&theme=omni)](https://github.com/chkim9910/x2y2-Renewal)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chkim9910&repo=KAWA-Renewal&theme=ambient_gradient)](https:///github.com/chkim9910/KAWA-Renewal)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chkim9910&repo=KNB-Renewal&theme=ambient_gradient)](https:///github.com/chkim9910/KNB-Renewal)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chkim9910&repo=Chanel22bag-Renewal&theme=omni)](https:///github.com/chkim9910/Chanel22bag-Renewal)
 
 </div>
