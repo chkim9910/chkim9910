@@ -1,6 +1,5 @@
-###
-
 <link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet">
+
 <div align='center'>
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=500&text=ChoHyangKim)
@@ -40,7 +39,7 @@
 <br/>
 <br/>
 
-<div align="left">
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chkim9910&theme=buefy&rank_icon=github)
 
