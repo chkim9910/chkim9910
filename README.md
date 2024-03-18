@@ -1,4 +1,4 @@
-### Hi there 👋
+### ChoHyang Kim
 
 <!--
 **chkim9910/chkim9910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
