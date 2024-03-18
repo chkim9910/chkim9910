@@ -4,6 +4,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=500&text=ChoHyangKim)
 
+![header](https://capsule-render.vercel.app/api?type=waving&height=300)
+
 </div>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chkim9910&show_icons=true&theme=transparent&) -->
