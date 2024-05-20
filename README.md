@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-![header](<https://capsule-render.vercel.app/api?type=venom&height=300&animation=fadeIn&fontSize= 90&text=Welcome&desc=This%20is%20Shantierra(ChoHyang)'s%20work%20space!>)
+![header](<https://capsule-render.vercel.app/api?type=venom&height=300&animation=fadeIn&fontSize= 70&text=Welcome&desc=This%20is%20Shantierra(ChoHyang)'s%20work%20space!>)
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=ChoHyangKim&desc=Welcome%20to%20Shantierra's%20work%20space!) -->
 
